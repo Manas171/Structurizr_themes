@@ -84,7 +84,7 @@
     "icon" : "Cloud_CDN.png"
   }, {
     "tag" : "Google Cloud Platform - Cloud PubSub",
-    "icon" : "Cloud_PubSub.png",
+    "icon" : "Cloud_PubSub.png"
   }, {
     "tag" : "Google Cloud Platform - Stackdriver",
     "icon" : "Stackdriver.png"
